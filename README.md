@@ -1,0 +1,1 @@
+# chainermn_mnist
